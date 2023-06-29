@@ -1,2 +1,2 @@
 from diffusers import StableDiffusionInpaintPipeline
-pipe = StableDiffusionInpaintPipeline.from_pretrained("lioo/Realistic_Vision_V2.0-inpainting")
+pipe = StableDiffusionInpaintPipeline.from_pretrained("saik0s/realistic_vision_inpainting")
